@@ -24,6 +24,8 @@ You'll need to set up a mysql instance to connect to and provide the appropriate
 
 ```npm i && mysql < db/schema.sql && npm run seed && npm start```
 
+[video walkthrough](https://drive.google.com/file/d/1t7IWtp4YGZvkvqb8Grf4U1s7xdWH7AtY/view)
+
 ## Credits and Questions
 
 Please reach out by raising an issue if you have questions or suggestions.
